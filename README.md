@@ -176,18 +176,9 @@ Or open an issue in the repository with logs, error messages, and a description 
 
 ## LICENSE
 
-Add your license here (MIT / GPL / etc.). If you don’t want the code reused publicly, do **not** choose permissive licenses. Consider keeping the source in a **private repo** if you plan to distribute only compiled binaries.
+
 
 ---
 
 Thank you — and remember: **use it ethically.**
 
-```
-
----
-
-Want me to:
-- Save that into a `README.md` file for you (I can provide the exact file content), and
-- Add a `requirements.txt` and `ABOUT.txt` files too?
-::contentReference[oaicite:0]{index=0}
-```
