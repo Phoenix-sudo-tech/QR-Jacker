@@ -4,6 +4,7 @@
 Do **not** use against systems, networks or people without explicit permission. By using this tool you confirm you are authorized to test the target systems and accept all responsibility for your actions. See `ABOUT.txt` for full disclaimer and credits.
 
 ---
+<img width="1440" height="698" alt="Screenshot 2025-10-25 083850" src="https://github.com/user-attachments/assets/c7c11f8c-33a0-4c7d-9ea7-c0bd2ad67d0a" />
 
 ## Features
 
