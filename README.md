@@ -1,13 +1,4 @@
-````markdown
-# QR-Jacker
-
-**QR-Jacker** — Local QR session manager & visual recon dashboard (lab use only).
-
-> A compact, lab-focused tool for generating QR sessions and visualizing consenting client telemetry in a slick dark-themed admin UI. Intended for controlled red-team / Hack The Box style labs and defensive training only.
-
----
-
-## ⚠️ IMPORTANT (Read first)
+⚠️ IMPORTANT (Read first)
 
 **This project is for EDUCATIONAL and AUTHORIZED TESTING ONLY.**  
 Do **not** use against systems, networks or people without explicit permission. By using this tool you confirm you are authorized to test the target systems and accept all responsibility for your actions. See `ABOUT.txt` for full disclaimer and credits.
