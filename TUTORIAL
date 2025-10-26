@@ -1,10 +1,10 @@
  : QUICK TUTORIAL HERE :
 
-FIRST CLONE THE REPO FROM GITHUB : 
+FIRST CLONE THE REPO FROM GITHUB : git clone https://github.com/Phoenix-sudo-tech/QR-Jacker.git
 
-GO INSIDE THE FOLDER : 
+GO INSIDE THE FOLDER : cd QR-Jacker
 
-NOW GIVE ALL PERMISSIONS : 
+NOW GIVE ALL PERMISSIONS : chmod +x *
 
 
 NOW THESE ARE MUST ----------
@@ -29,7 +29,7 @@ OR ,
 
 pip3 install Flask qrcode Pillow
 
-NOW RUN THE SCRIPT !! --->> ./qrjacker 
+NOW RUN THE PAYLOAD I MEAN SCRIPT !! --->> python3 script.py
 
 now open the admin panel in yo browser....
 
