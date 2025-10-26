@@ -1,0 +1,76 @@
+ : QUICK TUTORIAL HERE :
+
+FIRST CLONE THE REPO FROM GITHUB : 
+
+GO INSIDE THE FOLDER : 
+
+NOW GIVE ALL PERMISSIONS : 
+
+
+NOW THESE ARE MUST ----------
+
+
+python3 -m venv venv
+source venv/bin/activate
+
+
+
+NOW U NEED THESE ---->>
+
+Flask==3.0.0
+qrcode==7.4.2
+Pillow==10.1.0
+
+AND PYTHON OBVISOUSLY
+
+SO....JUST TYPE : pip install -r requirements.txt
+
+OR , 
+
+pip3 install Flask qrcode Pillow
+
+NOW RUN THE SCRIPT !! --->> ./qrjacker 
+
+now open the admin panel in yo browser....
+
+MAKE THE LINK FOR VICTIM ( WAN ) :  cloudflared tunnel --url http://127.0.0.1:5000
+
+( SETUP CLOUDFLARED FIRST....IF U DONT KNOW ASK CHATGPT )
+
+AFTER CLOUFLARED GIVES U LINK COPY THAT...
+
+
+
+GO TO ADMIN PANEL CLICK ON "GENERATE QR" .. AND IT'LL ASK U THAT LINK..PASTE THAT...
+
+
+NOW GIVE THIS QR TO YOUR VICTIM AND TELL HIM/HER TO SCAN...
+
+ONCE THEY SCAN IT YOU'LL GET THEIR CONNCETION IN THE ADMIN PANEL...
+
+
+
+
+NOTE : FOR NOW ITS SHOWING " CLAIM 0.5 BTC PAGE " TO VICTIM...AND THEY HAVE TO CLICK ON ALLOW
+SO YOU'LL GET THE CONNECTION..
+
+BUT REMEMBER ITS ON BETA STAGE....I'LL FIX THIS LATER AS I AM THE SOLO DEVELOPER 
+OF THIS TOOL AKA @ethicalphoenix
+
+(and click on refresh data to see if the victim is connected or not....)
+
+FOR ANY QUERIES OR BUGS OR SUGESTION OR TO JOIN MY COMMUNITY , 
+
+CONTACT ME AT ----->
+
+INSTAGRAM : @ethicalphoenix
+TELEGRAM : t.me/MrRabbit_008
+
+
+THANK YOU 
+
+
+
+
+
+  
