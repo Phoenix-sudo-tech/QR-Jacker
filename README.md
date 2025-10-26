@@ -87,7 +87,8 @@ http://127.0.0.1:5001
 (If your config uses different ports, check console output when the server starts.)
 
 ---
-<img width="1438" height="695" alt="Screenshot 2025-10-25 084611" src="https://github.com/user-attachments/assets/b3162588-a441-4977-9a26-00ae3e823b27" />
+<img width="1326" height="695" alt="Screenshot 2025-10-25 084611" src="https://github.com/user-attachments/assets/30691b7d-b5f4-48ac-bd94-9acbacacd859" />
+
 
 ## How to expose the victim-facing page (Cloudflare Tunnel)
 
@@ -109,6 +110,7 @@ https://random-name.trycloudflare.com
 4. Copy that link.
 
 ---
+<img width="562" height="571" alt="Screenshot 2025-10-25 084635" src="https://github.com/user-attachments/assets/5ba1dafe-b060-4c0f-bcc9-1ca590894c40" />
 
 
 
