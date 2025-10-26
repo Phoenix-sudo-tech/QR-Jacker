@@ -110,7 +110,6 @@ https://random-name.trycloudflare.com
 
 ---
 
-<img width="667" height="571" alt="Screenshot 2025-10-25 084635" src="https://github.com/user-attachments/assets/ab8d0e51-7099-4d2b-a50e-a2ce874e7bbd" />
 
 
 ## Generate QR & use flow
