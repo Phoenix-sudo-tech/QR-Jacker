@@ -135,6 +135,9 @@ https://random-name.trycloudflare.com
 
 ---
 
+<img width="983" height="616" alt="Screenshot 2025-10-25 084759" src="https://github.com/user-attachments/assets/3cf94a5c-a069-49ba-86a9-2f33f11ed0c7" />
+
+
 ## Tips & troubleshooting
 
 * If the admin UI doesn’t show images, ensure `static/img/` contains `android.png`, `iphone.png`, `mac.png`, `win.png`, `linux.png`, and `unknown.png`.
