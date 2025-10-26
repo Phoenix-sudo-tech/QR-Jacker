@@ -15,6 +15,7 @@ Do **not** use against systems, networks or people without explicit permission. 
 - Designed for lab/HTB usage — Cloudflare Tunnel friendly
 
 ---
+<img width="1017" height="565" alt="Screenshot 2025-10-25 084343" src="https://github.com/user-attachments/assets/2b151a25-abec-40f1-8c52-aede439c309b" />
 
 ## Quick tutorial
 
