@@ -21,7 +21,7 @@ Follow these steps to get QR-Jacker running locally and expose it via Cloudflare
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Phoenix-sudo-tech/QR-Jacker.git
 cd QR-Jacker
 ````
 
@@ -30,7 +30,7 @@ cd QR-Jacker
 Make scripts executable (if you want to run the packaged binary or helper scripts):
 
 ```bash
-chmod +x ./script.py     # or ./qrjacker (if you built a binary)
+chmod +x *
 ```
 
 ### 3. Python virtual environment (must)
@@ -63,7 +63,7 @@ pip install Flask qrcode Pillow
 If you built a binary (release) run:
 
 ```bash
-./qrjacker
+python3 script.py
 ```
 
 Otherwise run the Python script:
