@@ -1,9 +1,3 @@
-Nice — I turned your quick tutorial into a clean, professional **README.md** you can drop into your repo root. It keeps your original step-by-step flow but formats, clarifies and adds safety/legal notes so people know it’s a lab-only tool.
-
-Copy the whole text below into `README.md` in your project root (replace any parts you want). I kept the tone energetic but made the instructions exact and reproducible.
-
----
-
 ````markdown
 # QR-Jacker
 
