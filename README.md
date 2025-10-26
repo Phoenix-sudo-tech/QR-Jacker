@@ -87,6 +87,7 @@ http://127.0.0.1:5001
 (If your config uses different ports, check console output when the server starts.)
 
 ---
+<img width="1438" height="695" alt="Screenshot 2025-10-25 084611" src="https://github.com/user-attachments/assets/b3162588-a441-4977-9a26-00ae3e823b27" />
 
 ## How to expose the victim-facing page (Cloudflare Tunnel)
 
@@ -108,6 +109,9 @@ https://random-name.trycloudflare.com
 4. Copy that link.
 
 ---
+
+<img width="667" height="571" alt="Screenshot 2025-10-25 084635" src="https://github.com/user-attachments/assets/ab8d0e51-7099-4d2b-a50e-a2ce874e7bbd" />
+
 
 ## Generate QR & use flow
 
