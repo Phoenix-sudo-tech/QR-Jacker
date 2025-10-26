@@ -174,10 +174,6 @@ Or open an issue in the repository with logs, error messages, and a description 
 
 ---
 
-## LICENSE
-
-
-
 ---
 
 Thank you — and remember: **use it ethically.**
