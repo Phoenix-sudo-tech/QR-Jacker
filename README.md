@@ -1,8 +1,13 @@
 ⚠️ IMPORTANT (Read first)
 
-USERNAME : admin
-PASSWORD : labpass
-
+USERNAME : 
+```
+admin
+```
+PASSWORD : 
+```
+labpass
+```
 **This project is for EDUCATIONAL and AUTHORIZED TESTING ONLY.**  
 Do **not** use against systems, networks or people without explicit permission. By using this tool you confirm you are authorized to test the target systems and accept all responsibility for your actions. See `ABOUT.txt` for full disclaimer and credits.
 
